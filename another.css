@@ -51,17 +51,10 @@ flex-direction: column;
 }
 
 
-.videos {
-  display: flex;
-  gap: 40px;
-  margin-top: 5vh;
- align-items: center;
- margin-left: 5vh;
 
-}
 
 .videos2{
-  margin-top: 16vh;
+  margin-top: 10vh;
   display: flex;
   gap: 40px;
   margin-left: 5vh;
